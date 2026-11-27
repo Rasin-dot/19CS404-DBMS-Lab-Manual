@@ -172,8 +172,6 @@ values(100,'Doe',250.00);
 - If the inserted salary in the `employees` table is below the condition (e.g., salary < 3000), the insert operation is blocked, and an error message is raised, such as: `ERROR: Salary below minimum threshold.`
 <img width="805" alt="trigger" src="https://github.com/user-attachments/assets/cf1d690c-73d0-4ac3-a44b-1f2cda70a37a" />
 
-## RESULT
-Thus, the PL/SQL trigger programs were written and executed successfully.such as: `ERROR: Salary below minimum threshold.`
 
 ## RESULT
 Thus, the PL/SQL trigger programs were written and executed successfully.
